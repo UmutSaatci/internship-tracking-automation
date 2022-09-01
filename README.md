@@ -15,3 +15,8 @@ Olumlu veya olumsuz durumda sistemde bilgi verilecektir.
 Projemiz, backend tarafında PHP yazılım mimarisi, frontend tarafında HTML, CSS, Bootstrap ve jQuery kullanılmıştır. 
 Veri tabanında ise MySQL kullanılarak hazırlanılmıştır.
 ------------------------------------------------------------------------------------------------------------------------
+# SİSTEME NASIL GİRİŞ YAPILIR?
+------------------------------------------------------------------------------------------------------------------------
+SİSTEME GİRİŞ YAPMAK İÇİN VERİTABANINI KURUNUZUZ.
+ARDINDAN KULLANICI BİLGİLERİ İLE SİSTEME GİRİŞ YAPABİLİRSİNİZ
+------------------------------------------------------------------------------------------------------------------------
